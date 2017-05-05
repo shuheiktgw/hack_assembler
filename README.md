@@ -22,3 +22,7 @@ All you need to do is just run assemble.rb, which is located at the root level o
 
 Then it will output the translated file at the same place with `.hack` extension.
  
+## Licence
+Hack Assembler is distributed under MIT license.
+
+Copyright (c) 2017 Shuhei Kitagawa
